@@ -1,9 +1,9 @@
 {
   "owner": {
     "username": "starlitboy",
-    "email": "work.dev.rik@gmail.com"
+    "email": "your-email@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "prpinka.netlify.app"
   }
 }
